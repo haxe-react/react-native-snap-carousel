@@ -1,0 +1,19 @@
+{
+    "name": "react-native-snap-carousel",
+    "license": "MIT",
+    "tags": [
+      "react",
+      "native",
+      "snap",
+      "carousel"
+    ],
+    "classPath": "src",
+    "contributors": [
+      "zabojad"
+    ],
+    "releasenote": "Initial release",
+    "version": "1.0.0",
+    "url": "https://github.com/haxe-react/react-native-snap-carousel",
+    "dependencies": {
+    }
+  }
